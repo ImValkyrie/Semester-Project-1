@@ -412,13 +412,6 @@ body {
 
 /* RIGHT COLUMN */
 
-.footer-hours-news {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1.5rem;
-}
-
 .opening-hours h3,
 .newsletter h3 {
     margin: 0 0 0 1px;
